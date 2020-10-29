@@ -1,2 +1,2 @@
 ## Welcome to GitHub Pages
-this is anor homePage!
+this is Arnow blog!
